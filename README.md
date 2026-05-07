@@ -29,6 +29,5 @@ Because victims might be monitored by their abusers, this website includes a cru
 ## 🚀 How to Run Locally
 Since this is a static website, no local server environment or dependencies are required.
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/yourusername/stopkdrt.git](https://github.com/yourusername/stopkdrt.git)
+just click this:
+https://rafiandika86.github.io/info-kdrt-project/
