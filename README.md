@@ -2,7 +2,7 @@
 
 A static, responsive website dedicated to raising awareness about Domestic Violence (KDRT - *Kekerasan Dalam Rumah Tangga*) in Indonesia and providing immediate access to emergency help services. 
 
-> **Academic Disclaimer:** This repository is created as a project assignment for **[Course Name]** at **[University Name]**. 
+> **Academic Disclaimer:** This repository is created as a project assignment for **KEWARGANEGARAAN** at **[University Of Bengkulu]**. 
 
 ## 📌 Project Overview
 Victims of domestic violence often struggle to find safe, reliable information and emergency contacts. This project aims to bridge that gap by providing a clean, accessible web interface detailing the legal definition of KDRT, its various forms, and direct action buttons to reach Indonesian authorities and support groups.
