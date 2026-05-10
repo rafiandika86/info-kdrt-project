@@ -11,14 +11,6 @@ document.querySelectorAll(".nav-links a").forEach(n => n.addEventListener("click
     navLinks.classList.remove("active");
 }));
 
-// FITUR KEAMANAN: KELUAR CEPAT (QUICK EXIT)
-// Fitur ini memungkinkan korban KDRT untuk menutup situs seketika jika pelaku datang.
-
-function quickExit() {
-    // Replace state agar tombol "Back" di browser tidak mengembalikan pengguna ke situs ini
-    window.location.replace("https://www.google.com");
-}
-
 // 1. Eksekusi jika tombol Keluar Cepat diklik
 const exitBtn = document.getElementById("quick-exit");
 if (exitBtn) {
