@@ -23,32 +23,6 @@ html {
     padding: 0 20px;
 }
 
-
-/* Quick Exit Button */
-
-#quick-exit {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #d32f2f;
-    color: white;
-    border: none;
-    padding: 15px 25px;
-    font-size: 1rem;
-    font-weight: bold;
-    border-radius: 50px;
-    cursor: pointer;
-    z-index: 9999;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-    transition: background 0.3s, transform 0.2s;
-}
-
-#quick-exit:hover {
-    background-color: #b71c1c;
-    transform: scale(1.05);
-}
-
-
 /* Header & Nav */
 
 header {
